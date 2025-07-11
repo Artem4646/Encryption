@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e58de59a-4c39-4a62-a32c-7eed60864fb1" name="Changes" comment="finished the project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Artem4646&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Artem4646/Encryption.git&quot;,
+    &quot;accountId&quot;: &quot;9fb1efd2-43c8-4189-9ff1-70fce0803a02&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/EncryptionGUI.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2z8qJEj3ekbLBXj5XVxGdBeHl9T" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BruteForceGUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EncryptionGUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Frame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/quiet/Desktop/Encryption/src/main/java/org/example/resource&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/quiet/Desktop/Encryption/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/resource" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Encryption" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Encryption" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e58de59a-4c39-4a62-a32c-7eed60864fb1" name="Changes" comment="" />
+      <created>1751122974587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751122974587</updated>
+      <workItem from="1751122975974" duration="1352000" />
+      <workItem from="1751208222634" duration="7140000" />
+      <workItem from="1751216070675" duration="949000" />
+      <workItem from="1751217307302" duration="2598000" />
+      <workItem from="1751253819219" duration="1390000" />
+      <workItem from="1751470835858" duration="5858000" />
+      <workItem from="1751480401009" duration="2627000" />
+      <workItem from="1751544611231" duration="4000" />
+      <workItem from="1751545087095" duration="71000" />
+      <workItem from="1751545394949" duration="14000" />
+      <workItem from="1751545469764" duration="5000" />
+      <workItem from="1751545624470" duration="20000" />
+      <workItem from="1751545774792" duration="45000" />
+      <workItem from="1751545849006" duration="6000" />
+      <workItem from="1751545895070" duration="32000" />
+      <workItem from="1751545948008" duration="9000" />
+      <workItem from="1751545981313" duration="7000" />
+      <workItem from="1751546008064" duration="20000" />
+      <workItem from="1751546332468" duration="228000" />
+      <workItem from="1751546613062" duration="22000" />
+      <workItem from="1751641573581" duration="4371000" />
+      <workItem from="1751645970957" duration="1097000" />
+      <workItem from="1751647501425" duration="9000" />
+      <workItem from="1751647531078" duration="27000" />
+      <workItem from="1751647573679" duration="4735000" />
+      <workItem from="1751712797721" duration="7096000" />
+      <workItem from="1751720107196" duration="8117000" />
+      <workItem from="1751731666707" duration="347000" />
+      <workItem from="1751816748146" duration="4138000" />
+      <workItem from="1751821202578" duration="4792000" />
+      <workItem from="1751826032887" duration="130000" />
+      <workItem from="1751902779651" duration="696000" />
+      <workItem from="1751990380488" duration="1101000" />
+      <workItem from="1751992851885" duration="11756000" />
+      <workItem from="1752056572122" duration="1551000" />
+      <workItem from="1752062938414" duration="2895000" />
+      <workItem from="1752076118588" duration="6704000" />
+      <workItem from="1752083973252" duration="11568000" />
+      <workItem from="1752226705593" duration="124000" />
+      <workItem from="1752228361767" duration="422000" />
+      <workItem from="1752228830280" duration="505000" />
+      <workItem from="1752229355175" duration="21000" />
+      <workItem from="1752229402087" duration="43000" />
+      <workItem from="1752229449276" duration="8000" />
+    </task>
+    <task id="LOCAL-00001" summary="implemented the class BruteForce">
+      <option name="closed" value="true" />
+      <created>1751655290819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751655290819</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added additional characters to the alphabets in classes Encryption and Decryption">
+      <option name="closed" value="true" />
+      <created>1751655490258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751655490258</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added output of brute force result">
+      <option name="closed" value="true" />
+      <created>1751655586075</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751655586075</updated>
+    </task>
+    <task id="LOCAL-00004" summary="finished the project">
+      <option name="closed" value="true" />
+      <created>1751826107268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751826107268</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implemented the class BruteForce" />
+    <MESSAGE value="added additional characters to the alphabets in classes Encryption and Decryption" />
+    <MESSAGE value="added output of brute force result" />
+    <MESSAGE value="finished the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished the project" />
+  </component>
+</project>

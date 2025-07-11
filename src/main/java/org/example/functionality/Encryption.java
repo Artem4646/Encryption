@@ -1,1 +1,25 @@
-package org.example.functionality;import java.io.IOException;public class Encryption {    private int key;    public Encryption() {    }    public Encryption(int key) {        this.key = key;    }    public int getKey() {        return key;    }    public void setKey(int key) {        this.key = key;    }    public String encrypt(String str) throws IOException {        char[] isUppercase = "АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ".toCharArray();        char[] isLowercase = "абвгґдеєжзиіїйклмнопрстуфхцчшщьюя".toCharArray();        char[] isDigital = "0123456789".toCharArray();        char[] isPunctuation = {                '.', ',', ';', ':', '…', '?', '!', '(', ')', '"',                '\'', '’', 'ʼ', '‘', '-', '—', '/', '«', '»', '[', ']',                '{', '}', ' ', '\n', '\t'        };        char[] strCharArray = str.toCharArray();        char[] result = new char[strCharArray.length];        for (int i = 0; i < strCharArray.length; i++) {            boolean replaced = false;            if (Character.isUpperCase(strCharArray[i])) {                for (int j = 0; j < isUppercase.length; j++) {                    if (isUppercase[j] == strCharArray[i]) {                        result[i] = isUppercase[(j + key) % isUppercase.length];                        replaced = true;                        break;                    }                }            }            if (replaced) continue;            else if (Character.isLowerCase(strCharArray[i])) {                for (int j = 0; j < isLowercase.length; j++) {                    if (isLowercase[j] == strCharArray[i]) {                        result[i] = isLowercase[(j + key) % isLowercase.length];                        replaced = true;                        break;                    }                }            }            if (replaced) continue;            else if (Character.isDigit(strCharArray[i])) {                for (int j = 0; j < isDigital.length; j++) {                    if (isDigital[j] == strCharArray[i]) {                        result[i] = isDigital[(j + key) % isDigital.length];                        replaced = true;                        break;                    }                }            }            if (replaced) continue;            else {                for (int j = 0; j < isPunctuation.length; j++) {                    if (isPunctuation[j] == strCharArray[i]) {                        result[i] = isPunctuation[(j + key) % isPunctuation.length];                        replaced = true;                        break;                    }                }            }            if (!replaced) {                result[i] = strCharArray[i];            }        }        return new String(result);    }}
+package org.example.functionality;
+
+import org.example.Alphabet;
+
+import java.io.IOException;
+
+public class Encryption {
+
+	public String encrypt(String str, int key) throws IOException {
+
+		char[] charArray = str.toCharArray();
+		char[] result = new char[charArray.length];
+
+		for (int i = 0; i < charArray.length; i++) {
+			int length = Alphabet.ALPHABET.length();
+			for (int j = 0; j < length; j++) {
+				if (Alphabet.ALPHABET.charAt(j) == charArray[i]) {
+					result[i] = Alphabet.ALPHABET.charAt((j + key) % length);
+					break;
+				}
+			}
+		}
+		return new String(result);
+	}
+}
